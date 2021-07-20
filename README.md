@@ -1,1 +1,0 @@
-# Stirng-has-numbers-or-not
